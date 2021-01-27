@@ -35,4 +35,4 @@ The main data source is from Margarida G. M. S. Cardoso, margarida.cardoso '@' i
 
 ![text](https://user-images.githubusercontent.com/68614187/106059737-c0cf6b80-60b8-11eb-910e-5dc13b0a32c9.png)
 
-![text](https://user-images.githubusercontent.com/68614187/106059791-d2187800-60b8-11eb-8e86-0d581f007dbe.png)
+![text](https://user-images.githubusercontent.com/68614187/106060485-c24d6380-60b9-11eb-851e-ef6df6b82971.png)
