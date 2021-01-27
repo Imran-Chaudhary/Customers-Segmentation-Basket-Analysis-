@@ -80,6 +80,17 @@ PCA 4
 
 #### Clustering - Optimal Number of Clusters
 
-Elbow method is used to identify how many clusters I might needed. Silhouette score is higher for 2-5 clusters, for both KMeans and GM.
+Elbow method is used to identify how many clusters I might needed.
 
 ![text](https://user-images.githubusercontent.com/68614187/106064454-80272080-60bf-11eb-9513-6473d74e9e70.png)
+
+Average Silhouette score is higher for 2-5 clusters, for both KMeans and GM.
+
+### KMeans 
+
+* For n_clusters = 2. The average silhouette_score is : 0.42628101546910835
+* For n_clusters = 3. The average silhouette_score is : 0.3974234200078323
+* For n_clusters = 4. The average silhouette_score is : 0.3316420596309083
+
+![text](https://user-images.githubusercontent.com/68614187/106065017-4a366c00-60c0-11eb-9765-9fed34010979.png)
+
