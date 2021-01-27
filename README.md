@@ -80,3 +80,6 @@ PCA 4
 
 #### Clustering - Optimal Number of Clusters
 
+Elbow method is used to identify how many clusters I might needed. Silhouette score is higher for 2-5 clusters, for both KMeans and GM.
+
+![text](https://user-images.githubusercontent.com/68614187/106064454-80272080-60bf-11eb-9513-6473d74e9e70.png)
