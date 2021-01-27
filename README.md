@@ -17,11 +17,11 @@ The main data source is from Margarida G. M. S. Cardoso, margarida.cardoso '@' i
 7) CHANNEL: customersâ€™ Channel - Horeca (Hotel/Restaurant/CafÃ©) or Retail channel (Nominal)
 8) REGION: customersâ€™ Region â€“ Lisnon, Oporto or Other (Nominal)
 
-### Data Cleaning, Transformation, Exploration and Features Engineering
+## Data Cleaning, Transformation, Exploration and Features Engineering
 
 ![text](https://user-images.githubusercontent.com/68614187/106059277-1bb49300-60b8-11eb-9048-ea317a68e7f6.png)
 
-### Origional Data and Features's Relationship VS Log Transformed Data and Feature's Relationship
+#### Origional Data and Features's Relationship VS Log Transformed Data and Feature's Relationship
 
 1. Non Scaled Data
 * Grocery and Detergent show stronger correlation
@@ -36,3 +36,16 @@ The main data source is from Margarida G. M. S. Cardoso, margarida.cardoso '@' i
 ![text](https://user-images.githubusercontent.com/68614187/106059737-c0cf6b80-60b8-11eb-910e-5dc13b0a32c9.png)
 
 ![text](https://user-images.githubusercontent.com/68614187/106060485-c24d6380-60b9-11eb-851e-ef6df6b82971.png)
+
+#### Outliers Detection & Removal - Tukey's Method
+
+I applied Tukey's method using 1.5 times of IQR to remove the outliers.
+
+1. Origiona Dataset
+
+![text](https://user-images.githubusercontent.com/68614187/106060975-60412e00-60ba-11eb-8c67-030c3c63e9ab.png)
+
+2. Outliers Removed Dataset
+
+![text](https://user-images.githubusercontent.com/68614187/106061160-9da5bb80-60ba-11eb-9e73-2363120ed79e.png)
+
