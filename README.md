@@ -93,5 +93,5 @@ Average Silhouette score is higher for 2-5 clusters, for both KMeans and GM.
 * For n_clusters = 4. The average silhouette_score is : 0.3316420596309083
 * For n_clusters = 5. The average silhouette_score is : 0.352208874352643
 
-![text](https://user-images.githubusercontent.com/68614187/106065017-4a366c00-60c0-11eb-9765-9fed34010979.png)
+![text](https://user-images.githubusercontent.com/68614187/106065215-95507f00-60c0-11eb-9494-2cc5f63cc573.png)
 
