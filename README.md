@@ -20,3 +20,9 @@ The main data source is from Margarida G. M. S. Cardoso, margarida.cardoso '@' i
 ### Data Cleaning, Transformation, Exploration and Features Engineering
 
 ![text](https://user-images.githubusercontent.com/68614187/106059277-1bb49300-60b8-11eb-9048-ea317a68e7f6.png)
+
+### Origional Data and Features's Relationship VS Log Transformed Data and Feature's Relationship
+
+![text](https://user-images.githubusercontent.com/68614187/106059737-c0cf6b80-60b8-11eb-910e-5dc13b0a32c9.png)
+
+![text](https://user-images.githubusercontent.com/68614187/106059791-d2187800-60b8-11eb-8e86-0d581f007dbe.png)
