@@ -49,3 +49,11 @@ I applied Tukey's method using 1.5 times of IQR to remove the outliers.
 
 ![text](https://user-images.githubusercontent.com/68614187/106061160-9da5bb80-60ba-11eb-9e73-2363120ed79e.png)
 
+#### Dimensionality Reduction and Principal Component Analysis
+
+Once data is cleaned, scaled and transformed to more normal distribution and outliers have been removed. Next step is to see the varience accross all components and chose the numbers contain maximum information.
+
+![text](https://user-images.githubusercontent.com/68614187/106062651-b1522180-60bc-11eb-85d2-b2798c60f37d.png)
+
+
+
