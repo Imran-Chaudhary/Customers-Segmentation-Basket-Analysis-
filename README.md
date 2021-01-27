@@ -53,18 +53,28 @@ I applied Tukey's method using 1.5 times of IQR to remove the outliers.
 
 Once data is cleaned, scaled and transformed to more normal distribution and outliers have been removed. Next step is to see the varience accross all components and chose the numbers contain maximum information.
 
-![text](https://user-images.githubusercontent.com/68614187/106062651-b1522180-60bc-11eb-85d2-b2798c60f37d.png)
+![text](https://user-images.githubusercontent.com/68614187/106063877-8c5eae00-60be-11eb-9597-cc18c91c0d6f.png)
 
 #### Varience % shown by PCA1 to PCA6
 
-Explained     Variance	Fresh	   Milk	  Grocery	 Frozen	   Detergents_Paper	 Delicassen
-  
-PComponents 1	 0.4430	  0.1675	-0.4014	 -0.4381	 0.1782	  -0.7514	         -0.1499
-PComponents 2	 0.2638	 -0.6859	-0.1672	 -0.0707	-0.5005	  -0.0424        	 -0.4941
-PComponents 3	 0.1231	 -0.6774	 0.0402	 -0.0195	 0.3150	  -0.2117	          0.6286
-PComponents 4	 0.1012	 -0.2043	 0.0128	  0.0557	 0.7854	   0.2096          -0.5423
-PComponents 5	 0.0485	 -0.0026	 0.7192	  0.3554	 -0.0331	-0.5582	         -0.2092
-PComponents 6	0.0204	0.0292	-0.5402	0.8205	0.0205	-0.1824	0.0197
+![text](https://user-images.githubusercontent.com/68614187/106064024-c62fb480-60be-11eb-9477-3eaee1f15350.png)
+
+A. 70.68% of the variance in the data is explained by the first and second principal components.
+B. 93.11% of the variance in the data is explained by the first four principal components.
+
+PCA 1
+* An increase in PC1 is associated with large increases in "Milk", "Grocery" and "Detergents_Paper" spending.
+* This is in line with our initial findings where the 3 features are highly correlated.
+
+PCA 2
+* An increase in PC2 is associated with large increases in "Fresh", "Frozen" and "Delicatessen" spending.
+* This makes sense as PC1 represents different features. And in PC2, the features in PC1 have very small positive weights.
+
+PCA 3
+* An increase in PC3 is associated with a large increase in "Delicatessen" and a large decrease in "Fresh" spending.
+
+PCA 4
+* An increase in PC4 is associated with a large increasing in "Frozen" and a large decrease in "Delicatessen" spending.
 
 ![text](https://user-images.githubusercontent.com/68614187/106063005-2cb3d300-60bd-11eb-9b29-d930a572abed.png)
 
