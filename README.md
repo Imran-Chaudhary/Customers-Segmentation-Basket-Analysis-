@@ -17,5 +17,6 @@ The main data source is from Margarida G. M. S. Cardoso, margarida.cardoso '@' i
 7) CHANNEL: customersâ€™ Channel - Horeca (Hotel/Restaurant/CafÃ©) or Retail channel (Nominal)
 8) REGION: customersâ€™ Region â€“ Lisnon, Oporto or Other (Nominal)
 
-# Data Cleaning, Transformation, Exploration and Features Engineering
+### Data Cleaning, Transformation, Exploration and Features Engineering
 
+![text](https://user-images.githubusercontent.com/68614187/106059277-1bb49300-60b8-11eb-9048-ea317a68e7f6.png)
