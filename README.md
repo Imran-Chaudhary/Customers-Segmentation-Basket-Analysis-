@@ -104,3 +104,22 @@ Average Silhouette score is higher for 2-5 clusters, for both KMeans and GM.
 * For n_clusters = 5. The average silhouette_score is : 0.3377275276519302
 
 ![text](https://user-images.githubusercontent.com/68614187/106073353-7c9b9580-60cf-11eb-8a1e-70023725713c.png)
+
+## Conclusion
+
+Since the final data is reduced in dimension and scaled by a logarithm, I recover the representative customer spending from these data points by applying the inverse transformations.
+
+#### Median Values from Original Dataset
+
+* Median values for Fresh: $8504.00
+* Median values for Milk: $3627.00
+* Median values for Grocery: $4756.00
+* Median values for Frozen: $1526.00
+* Median values for Detergents_Paper: $816.00
+* Median values for Delicassen: $966.00
+
+![text](https://user-images.githubusercontent.com/68614187/106073812-5f1afb80-60d0-11eb-989e-b49ec471dcdb.png)
+
+
+
+
