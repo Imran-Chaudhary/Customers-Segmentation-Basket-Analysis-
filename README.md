@@ -120,6 +120,16 @@ Since the final data is reduced in dimension and scaled by a logarithm, I recove
 
 ![text](https://user-images.githubusercontent.com/68614187/106073812-5f1afb80-60d0-11eb-989e-b49ec471dcdb.png)
 
+![text](https://user-images.githubusercontent.com/68614187/106073924-8d98d680-60d0-11eb-8a29-7b81d7b07633.png)
+
+#### Segment - 0
+
+Observed spending on 'Fresh’ and 'Frozen' above the median, where as spending on 'Milk' and 'Grocery' are less than median, this might represent this as a retailer / food store.
+
+#### Segment - 1
+
+Observe increase on spending on 'Milk', 'Grocery' and on 'Detergent Papers, where as reduces spending on ‘Fresh’ and ‘Frozen’, which might represent it as a restaurants/cafes, etc..
+
 
 
 
