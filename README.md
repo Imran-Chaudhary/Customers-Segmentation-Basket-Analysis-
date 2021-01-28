@@ -86,7 +86,7 @@ Elbow method is used to identify how many clusters I might needed.
 
 Average Silhouette score is higher for 2-5 clusters, for both KMeans and GM.
 
-### KMeans 
+### KMeans Model
 
 * For n_clusters = 2. The average silhouette_score is : 0.42628101546910835
 * For n_clusters = 3. The average silhouette_score is : 0.3974234200078323
@@ -95,3 +95,12 @@ Average Silhouette score is higher for 2-5 clusters, for both KMeans and GM.
 
 ![text](https://user-images.githubusercontent.com/68614187/106065215-95507f00-60c0-11eb-9494-2cc5f63cc573.png)
 
+
+### Gaussian Mixture Model
+
+* For n_clusters = 2. The average silhouette_score is : 0.4219168464626149
+* For n_clusters = 3. The average silhouette_score is : 0.37781736386963943
+* For n_clusters = 4. The average silhouette_score is : 0.2648661939130228
+* For n_clusters = 5. The average silhouette_score is : 0.3377275276519302
+
+![text](https://user-images.githubusercontent.com/68614187/106073353-7c9b9580-60cf-11eb-8a1e-70023725713c.png)
